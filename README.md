@@ -24,6 +24,7 @@ Yêu cầu phần mềm: Máy đã cài sẵn WinRAR 🛠️
 Cách chạy: Mở CMD/Terminal gõ: python split.py ▶️
 
 📖 Hướng dẫn sử dụng nhanh
+
 Source RAR: Nhập thư mục đầu vào file rar 📁
 
 Output: Chọn thư mục lưu file con 📂
