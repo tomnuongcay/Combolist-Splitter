@@ -90,7 +90,6 @@ Batch: Number of parts before pausing (Enter 9999 for Continuous Mode) ♾️
 Start Part: Starting part number (Default is 1) 🏁
 
 👨‍💻 Contact
-Developer: TomNuongCay 🌶️
 
 Telegram: t.me/tomnuongcay ✈️
 
