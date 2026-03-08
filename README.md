@@ -12,7 +12,7 @@ Công cụ chia nhỏ file RAR khổng lồ cực nhanh – Không cần giải 
 
 🔄 Chế độ Resume: Chia dở? Chỉ cần nhập số Part cũ, tool tự động nhảy cóc (Skip) đến vị trí đó để chạy tiếp.
 
-⏹️ Tạm dừng thông minh: Tự động dừng sau mỗi đợt (Batch) để bạn kịp Move file đi chỗ khác hoặc Up lên mây.
+⏹️ Tạm dừng thông minh: Tự động dừng sau mỗi đợt (Batch) để bạn kịp Move file đi chỗ khác hoặc up lên cloud.
 
 📋 Line Integrity: Đảm bảo không bao giờ bị cắt ngang dòng Combolist.
 
